@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\HP\\Downloads\\jar_files\\json-simple-1.1.1.jar",
+    "c:\\Users\\HP\\Downloads\\jar_files\\junit-4.10.jar",
+    "c:\\Users\\HP\\Downloads\\jar_files\\json-20230618.jar",
+    "c:\\Users\\HP\\Downloads\\jar_files (1)\\gson-2.8.2.jar"
+  ]
+}
